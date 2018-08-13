@@ -1,0 +1,1178 @@
+[
+    {
+        "nat_cd": "101",
+        "nat_name": "아프가니스탄",
+        "visit_cnt": 32,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "104",
+        "nat_name": "바레인",
+        "visit_cnt": 13,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "105",
+        "nat_name": "방글라데시",
+        "visit_cnt": 1055,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "106",
+        "nat_name": "부탄",
+        "visit_cnt": 17,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "107",
+        "nat_name": "브루나이",
+        "visit_cnt": 480,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "108",
+        "nat_name": "미얀마",
+        "visit_cnt": 5255,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "110",
+        "nat_name": "캄보디아",
+        "visit_cnt": 2057,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "111",
+        "nat_name": "스리랑카",
+        "visit_cnt": 1407,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "112",
+        "nat_name": "중국",
+        "visit_cnt": 465218,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "113",
+        "nat_name": "대만",
+        "visit_cnt": 49494,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "114",
+        "nat_name": "키프로스",
+        "visit_cnt": 58,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "120",
+        "nat_name": "홍콩",
+        "visit_cnt": 54753,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "124",
+        "nat_name": "인도",
+        "visit_cnt": 8863,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "125",
+        "nat_name": "인도네시아",
+        "visit_cnt": 20557,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "126",
+        "nat_name": "이란",
+        "visit_cnt": 321,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "127",
+        "nat_name": "이라크",
+        "visit_cnt": 140,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "128",
+        "nat_name": "이스라엘",
+        "visit_cnt": 831,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "130",
+        "nat_name": "일본",
+        "visit_cnt": 159877,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "131",
+        "nat_name": "요르단",
+        "visit_cnt": 207,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "133",
+        "nat_name": "카자흐스탄",
+        "visit_cnt": 2155,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "134",
+        "nat_name": "키르기스스탄",
+        "visit_cnt": 449,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "135",
+        "nat_name": "쿠웨이트",
+        "visit_cnt": 112,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "138",
+        "nat_name": "라오스",
+        "visit_cnt": 753,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "139",
+        "nat_name": "레바논",
+        "visit_cnt": 68,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "142",
+        "nat_name": "마카오",
+        "visit_cnt": 6747,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "143",
+        "nat_name": "말레이시아",
+        "visit_cnt": 32143,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "144",
+        "nat_name": "몰디브",
+        "visit_cnt": 7,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "145",
+        "nat_name": "몽골",
+        "visit_cnt": 5974,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "148",
+        "nat_name": "네팔",
+        "visit_cnt": 1549,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "150",
+        "nat_name": "오만",
+        "visit_cnt": 52,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "153",
+        "nat_name": "파키스탄",
+        "visit_cnt": 948,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "154",
+        "nat_name": "팔레스타인",
+        "visit_cnt": 14,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "155",
+        "nat_name": "필리핀",
+        "visit_cnt": 33009,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "156",
+        "nat_name": "티모르",
+        "visit_cnt": 72,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "159",
+        "nat_name": "카타르",
+        "visit_cnt": 35,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "162",
+        "nat_name": "사우디아라비아",
+        "visit_cnt": 490,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "164",
+        "nat_name": "싱가포르",
+        "visit_cnt": 27334,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "165",
+        "nat_name": "시리아",
+        "visit_cnt": 174,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "169",
+        "nat_name": "타지키스탄",
+        "visit_cnt": 63,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "170",
+        "nat_name": "태국",
+        "visit_cnt": 44140,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "171",
+        "nat_name": "터키",
+        "visit_cnt": 1478,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "172",
+        "nat_name": "투르크메니스탄",
+        "visit_cnt": 26,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "180",
+        "nat_name": "아랍에미리트연합",
+        "visit_cnt": 998,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "181",
+        "nat_name": "우즈베키스탄",
+        "visit_cnt": 4138,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "185",
+        "nat_name": "베트남",
+        "visit_cnt": 11816,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "191",
+        "nat_name": "예멘공화국",
+        "visit_cnt": 46,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "201",
+        "nat_name": "앤티가바부다",
+        "visit_cnt": 6,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "202",
+        "nat_name": "아르헨티나",
+        "visit_cnt": 267,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "205",
+        "nat_name": "바하마",
+        "visit_cnt": 1,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "206",
+        "nat_name": "바베이도스",
+        "visit_cnt": 5,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "207",
+        "nat_name": "벨리즈",
+        "visit_cnt": 6,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "208",
+        "nat_name": "볼리비아",
+        "visit_cnt": 54,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "209",
+        "nat_name": "브라질",
+        "visit_cnt": 1008,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "213",
+        "nat_name": "캐나다",
+        "visit_cnt": 11033,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "214",
+        "nat_name": "칠레",
+        "visit_cnt": 268,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "215",
+        "nat_name": "콜롬비아",
+        "visit_cnt": 261,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "216",
+        "nat_name": "코스타리카",
+        "visit_cnt": 53,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "217",
+        "nat_name": "쿠바",
+        "visit_cnt": 2,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "220",
+        "nat_name": "도미니카연방",
+        "visit_cnt": 11,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "221",
+        "nat_name": "도미니카공화국",
+        "visit_cnt": 27,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "224",
+        "nat_name": "에콰도르",
+        "visit_cnt": 64,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "225",
+        "nat_name": "엘살바도르",
+        "visit_cnt": 35,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "229",
+        "nat_name": "그레나다",
+        "visit_cnt": 2,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "231",
+        "nat_name": "과테말라",
+        "visit_cnt": 51,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "232",
+        "nat_name": "가이아나",
+        "visit_cnt": 4,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "235",
+        "nat_name": "아이티",
+        "visit_cnt": 0,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "236",
+        "nat_name": "온두라스",
+        "visit_cnt": 115,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "240",
+        "nat_name": "자메이카",
+        "visit_cnt": 63,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "248",
+        "nat_name": "멕시코",
+        "visit_cnt": 785,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "252",
+        "nat_name": "니카라과",
+        "visit_cnt": 18,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "255",
+        "nat_name": "파나마",
+        "visit_cnt": 45,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "256",
+        "nat_name": "파라과이",
+        "visit_cnt": 36,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "257",
+        "nat_name": "페루",
+        "visit_cnt": 218,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "262",
+        "nat_name": "세인트크리스토퍼네비스",
+        "visit_cnt": 15,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "264",
+        "nat_name": "세인트빈센트그레나딘",
+        "visit_cnt": 4,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "265",
+        "nat_name": "수리남",
+        "visit_cnt": 0,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "268",
+        "nat_name": "트리니다드토바고",
+        "visit_cnt": 22,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "274",
+        "nat_name": "우루과이",
+        "visit_cnt": 12,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "275",
+        "nat_name": "미국",
+        "visit_cnt": 57580,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "280",
+        "nat_name": "베네수엘라",
+        "visit_cnt": 101,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "301",
+        "nat_name": "알바니아",
+        "visit_cnt": 9,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "302",
+        "nat_name": "안도라",
+        "visit_cnt": 0,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "303",
+        "nat_name": "오스트리아",
+        "visit_cnt": 558,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "304",
+        "nat_name": "아르메니아",
+        "visit_cnt": 12,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "305",
+        "nat_name": "아제르바이잔",
+        "visit_cnt": 55,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "306",
+        "nat_name": "벨기에",
+        "visit_cnt": 586,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "307",
+        "nat_name": "불가리아",
+        "visit_cnt": 536,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "308",
+        "nat_name": "벨로루시",
+        "visit_cnt": 74,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "309",
+        "nat_name": "보스니아-헤르체고비나",
+        "visit_cnt": 9,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "310",
+        "nat_name": "체코",
+        "visit_cnt": 749,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "312",
+        "nat_name": "에스토니아",
+        "visit_cnt": 53,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "313",
+        "nat_name": "덴마크",
+        "visit_cnt": 689,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "316",
+        "nat_name": "영국",
+        "visit_cnt": 7944,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "318",
+        "nat_name": "영국외지민",
+        "visit_cnt": 5,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "319",
+        "nat_name": "영국외지시민",
+        "visit_cnt": 1,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "320",
+        "nat_name": "핀란드",
+        "visit_cnt": 930,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "321",
+        "nat_name": "프랑스",
+        "visit_cnt": 5505,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "323",
+        "nat_name": "그루지야",
+        "visit_cnt": 47,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "324",
+        "nat_name": "독일",
+        "visit_cnt": 6113,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "326",
+        "nat_name": "그리스",
+        "visit_cnt": 670,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "329",
+        "nat_name": "헝가리",
+        "visit_cnt": 141,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "333",
+        "nat_name": "아이슬란드",
+        "visit_cnt": 14,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "334",
+        "nat_name": "아일랜드",
+        "visit_cnt": 398,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "335",
+        "nat_name": "이탈리아",
+        "visit_cnt": 3013,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "337",
+        "nat_name": "코소보",
+        "visit_cnt": 0,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "339",
+        "nat_name": "라트비아",
+        "visit_cnt": 133,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "340",
+        "nat_name": "리히텐슈타인",
+        "visit_cnt": 3,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "341",
+        "nat_name": "룩셈부르크",
+        "visit_cnt": 25,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "342",
+        "nat_name": "리투아니아",
+        "visit_cnt": 115,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "343",
+        "nat_name": "마케도니아",
+        "visit_cnt": 16,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "344",
+        "nat_name": "몰타",
+        "visit_cnt": 16,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "345",
+        "nat_name": "모나코",
+        "visit_cnt": 1,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "346",
+        "nat_name": "몰도바",
+        "visit_cnt": 27,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "347",
+        "nat_name": "몬테네그로",
+        "visit_cnt": 97,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "350",
+        "nat_name": "네덜란드",
+        "visit_cnt": 1811,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "352",
+        "nat_name": "노르웨이",
+        "visit_cnt": 982,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "360",
+        "nat_name": "폴란드",
+        "visit_cnt": 840,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "361",
+        "nat_name": "포르투갈",
+        "visit_cnt": 1074,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "365",
+        "nat_name": "루마니아",
+        "visit_cnt": 929,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "366",
+        "nat_name": "러시아(연방)",
+        "visit_cnt": 16164,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "367",
+        "nat_name": "세르비아",
+        "visit_cnt": 153,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "368",
+        "nat_name": "슬로바크",
+        "visit_cnt": 155,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "370",
+        "nat_name": "슬로베니아",
+        "visit_cnt": 57,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "371",
+        "nat_name": "산마리노",
+        "visit_cnt": 0,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "372",
+        "nat_name": "스페인",
+        "visit_cnt": 1141,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "373",
+        "nat_name": "스웨덴",
+        "visit_cnt": 1062,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "374",
+        "nat_name": "스위스",
+        "visit_cnt": 746,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "378",
+        "nat_name": "우크라이나",
+        "visit_cnt": 1949,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "390",
+        "nat_name": "바티칸",
+        "visit_cnt": 0,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "391",
+        "nat_name": "크로아티아",
+        "visit_cnt": 408,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "395",
+        "nat_name": "유고슬라비아",
+        "visit_cnt": 7,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "404",
+        "nat_name": "오스트레일리아",
+        "visit_cnt": 13306,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "418",
+        "nat_name": "피지",
+        "visit_cnt": 243,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "429",
+        "nat_name": "키리바시",
+        "visit_cnt": 79,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "435",
+        "nat_name": "미크로네시아",
+        "visit_cnt": 11,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "437",
+        "nat_name": "마샬군도",
+        "visit_cnt": 20,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "441",
+        "nat_name": "나우루",
+        "visit_cnt": 2,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "446",
+        "nat_name": "뉴질랜드",
+        "visit_cnt": 3020,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "451",
+        "nat_name": "팔라우",
+        "visit_cnt": 22,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "452",
+        "nat_name": "파푸아뉴기니",
+        "visit_cnt": 14,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "461",
+        "nat_name": "사모아",
+        "visit_cnt": 22,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "463",
+        "nat_name": "솔로몬군도",
+        "visit_cnt": 16,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "473",
+        "nat_name": "통가",
+        "visit_cnt": 23,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "475",
+        "nat_name": "투발루",
+        "visit_cnt": 22,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "485",
+        "nat_name": "비누아투",
+        "visit_cnt": 15,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "502",
+        "nat_name": "알제리",
+        "visit_cnt": 61,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "503",
+        "nat_name": "앙골라",
+        "visit_cnt": 9,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "506",
+        "nat_name": "보츠와나",
+        "visit_cnt": 13,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "507",
+        "nat_name": "부룬디",
+        "visit_cnt": 9,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "510",
+        "nat_name": "카메룬",
+        "visit_cnt": 34,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "512",
+        "nat_name": "카보베르데",
+        "visit_cnt": 2,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "514",
+        "nat_name": "차드",
+        "visit_cnt": 0,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "515",
+        "nat_name": "코모로",
+        "visit_cnt": 4,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "516",
+        "nat_name": "콩고",
+        "visit_cnt": 8,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "517",
+        "nat_name": "콩고민주공화국",
+        "visit_cnt": 10,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "520",
+        "nat_name": "베냉",
+        "visit_cnt": 1,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "525",
+        "nat_name": "이집트",
+        "visit_cnt": 632,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "526",
+        "nat_name": "적도기니",
+        "visit_cnt": 4,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "527",
+        "nat_name": "에티오피아",
+        "visit_cnt": 92,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "528",
+        "nat_name": "에리트레아",
+        "visit_cnt": 1,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "530",
+        "nat_name": "가봉",
+        "visit_cnt": 5,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "531",
+        "nat_name": "감비아",
+        "visit_cnt": 7,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "532",
+        "nat_name": "가나",
+        "visit_cnt": 106,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "533",
+        "nat_name": "기니",
+        "visit_cnt": 11,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "537",
+        "nat_name": "코트디부아르",
+        "visit_cnt": 12,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "540",
+        "nat_name": "케냐",
+        "visit_cnt": 173,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "542",
+        "nat_name": "레소토",
+        "visit_cnt": 3,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "543",
+        "nat_name": "라이베리아",
+        "visit_cnt": 32,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "544",
+        "nat_name": "리비아",
+        "visit_cnt": 174,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "550",
+        "nat_name": "마다가스카르",
+        "visit_cnt": 17,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "551",
+        "nat_name": "말라위",
+        "visit_cnt": 4,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "552",
+        "nat_name": "말리",
+        "visit_cnt": 6,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "553",
+        "nat_name": "모리타니",
+        "visit_cnt": 1,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "554",
+        "nat_name": "모리셔스",
+        "visit_cnt": 42,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "555",
+        "nat_name": "모로코",
+        "visit_cnt": 158,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "556",
+        "nat_name": "모잠비크",
+        "visit_cnt": 7,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "560",
+        "nat_name": "나미비아",
+        "visit_cnt": 6,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "561",
+        "nat_name": "니제르",
+        "visit_cnt": 1,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "562",
+        "nat_name": "나이지리아",
+        "visit_cnt": 232,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "565",
+        "nat_name": "짐바브웨",
+        "visit_cnt": 20,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "566",
+        "nat_name": "르완다",
+        "visit_cnt": 3,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "572",
+        "nat_name": "세네갈",
+        "visit_cnt": 13,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "573",
+        "nat_name": "세이셸",
+        "visit_cnt": 7,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "574",
+        "nat_name": "시에라리온",
+        "visit_cnt": 10,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "575",
+        "nat_name": "소말리아",
+        "visit_cnt": 1,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "576",
+        "nat_name": "남아프리카공화국",
+        "visit_cnt": 621,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "578",
+        "nat_name": "수단",
+        "visit_cnt": 55,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "579",
+        "nat_name": "스와질란드",
+        "visit_cnt": 1,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "580",
+        "nat_name": "남수단공화국",
+        "visit_cnt": 2,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "583",
+        "nat_name": "탄자니아",
+        "visit_cnt": 94,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "584",
+        "nat_name": "토고",
+        "visit_cnt": 4,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "585",
+        "nat_name": "튀니지",
+        "visit_cnt": 111,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "588",
+        "nat_name": "우간다",
+        "visit_cnt": 73,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "589",
+        "nat_name": "부르키나파소",
+        "visit_cnt": 4,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "595",
+        "nat_name": "잠비아",
+        "visit_cnt": 11,
+        "yyyymm": "201612"
+    },
+    {
+        "nat_cd": "900",
+        "nat_name": "국제연합",
+        "visit_cnt": 91,
+        "yyyymm": "201612"
+    }
+]

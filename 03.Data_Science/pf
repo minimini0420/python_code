@@ -1,0 +1,107 @@
+import csv
+import math
+
+def get_csv_row_instance(row_name):
+    index=data[0].index(row_name)
+    row_instance=[]
+    for i in data[1:]:
+        row_instance.append(i[index])
+
+    return conv_data(row_instance)
+
+def get_csv_col_instance(col_name):
+    for i in data:
+        if col_name in i:
+            return conv_data(i)
+
+def conv_data(instance):
+    try:
+        instance=list(map(int,instance))
+    except:
+        instance=list(map(float,instance))
+    return instance
+
+def print_col(instance):
+    for i in instance:
+        print("%g "%i,end="")
+    print()
+
+def my_sum(row_instance):
+    sum=0
+    for i in row_instance:
+        sum+=i
+    return sum
+
+def my_average(row_instance):
+    return my_sum(row_instance)/len(row_instance)
+
+def my_max(row_instance):
+    return max(row_instance)
+
+def my_min(row_instance):
+    return min(row_instance)
+
+def my_deviation(row_instance):
+    average=my_average(row_instance)
+    print("표본\t\t\t편차")
+    for i in row_instance:
+        print("%4g%20g"%(i,i-average))
+
+def my_standard_average(row_instance):
+    return math.sqrt(my_variance(row_instance))
+
+def my_variance(row_instance):
+    average=my_average(row_instance)
+    variance=0
+    for i in row_instance:
+        variance+=(i-average)**2
+    return variance/len(row_instance)
+
+def my_ascendant(row_instnace):
+    row_instnace.sort()
+    return row_instnace
+
+def my_descendant(row_instance):
+    row_instance.sort(reverse=True)
+    return row_instance
+
+with open("Demographic_Statistics_By_Zip_Code.csv") as infile:
+    data=list(csv.reader(infile))
+
+while 1:
+    print("1.행 2.열 3.총합 4.평균 5.최대 6.최소")
+    print("7.편차 8.표준편차 9.분산 10.오름차순 11.내림차순 12.종료")
+    case=int(input("메뉴를 선택하세요"))
+    if case==12:
+        break
+    AccessKey=input("Access Key를 입력하세요")
+    if case==1:     #행
+        print_col(get_csv_row_instance(AccessKey))
+    if case==2:     #열
+        print_col(get_csv_col_instance(AccessKey))
+    if case==3:     #총합
+        print_col(get_csv_row_instance(AccessKey))
+        print("총합: %g"%my_sum(get_csv_row_instance(AccessKey)))
+    if case==4:     #평균
+        print_col(get_csv_row_instance(AccessKey))
+        print("평균: %g"%my_average(get_csv_row_instance(AccessKey)))
+    if case==5:     #최대
+        print_col(get_csv_row_instance(AccessKey))
+        print("최대: %g"%my_max(get_csv_row_instance(AccessKey)))
+    if case==6:     #최소
+        print_col(get_csv_row_instance(AccessKey))
+        print("최소: %g"%my_min(get_csv_row_instance(AccessKey)))
+    if case==7:     #편차
+        my_deviation(get_csv_row_instance(AccessKey))
+    if case==8:     #표준편차
+        print_col(get_csv_row_instance(AccessKey))
+        print("표준편차: %g"%my_standard_average(get_csv_row_instance(AccessKey)))
+    if case==9:     #분산
+        print_col(get_csv_row_instance(AccessKey))
+        print("분산: %g"%my_variance(get_csv_row_instance(AccessKey)))
+    if case==10:    #오름차순
+        print("오름차순 정렬")
+        print_col(my_ascendant(get_csv_row_instance(AccessKey)))
+    if case==11:    #내림차순
+        print("내림차순 정렬")
+        print_col(my_descendant(get_csv_row_instance(AccessKey)))
